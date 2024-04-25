@@ -1,0 +1,32 @@
+/* Write your CSS here */
+.thumbnailimage {
+  height: 205px;
+  width: 300px;
+  border-radius: 10px;
+  margin: 30px;
+}
+
+.modalcontainer {
+  height: 550px;
+  width: 500px;
+  padding: 10px;
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.closebutton {
+  background-color: transparent;
+  color: #231f20;
+  font-size: 15px;
+  margin-bottom: 10px;
+  align-self: flex-end;
+  border: 0px;
+}
+
+.videocontainer {
+  height: 60%;
+  width: 100%;
+}

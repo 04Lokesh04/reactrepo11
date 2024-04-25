@@ -1,0 +1,26 @@
+/* Write your CSS here */
+.maincontainer {
+  background-color: #000000;
+  height: 100vh;
+  width: 100vw;
+}
+
+.primeimage {
+  height: 35vh;
+  width: 100vw;
+  margin-bottom: 25px;
+}
+
+.heading {
+  color: #ffffff;
+  font-size: 20px;
+  font-family: 'Roboto';
+  margin-left: 30px;
+  margin-bottom: 10px;
+}
+
+.slidercontainer {
+  height: 20vh;
+  margin: 20px;
+  padding: 25px;
+}
